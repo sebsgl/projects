@@ -1,0 +1,38 @@
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor_plantillas_excel.Form1.resources
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor plantillas excel.csproj.GenerateResource.cache
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor plantillas excel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor plantillas excel.AssemblyInfoInputs.cache
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor plantillas excel.AssemblyInfo.cs
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor plantillas excel.csproj.CoreCompileInputs.cache
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Convetidor plantillas excel.exe
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Convetidor plantillas excel.deps.json
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Convetidor plantillas excel.runtimeconfig.json
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Convetidor plantillas excel.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Convetidor plantillas excel.pdb
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor plantillas excel.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\refint\Convetidor plantillas excel.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor plantillas excel.pdb
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor plantillas excel.genruntimeconfig.cache
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\ref\Convetidor plantillas excel.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\EPPlus.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetidor plantillas excel.csproj.AssemblyReference.cache
+D:\Project C#\Convetidor plantillas excel\Convetidor plantillas excel\obj\Debug\net6.0-windows\Convetid.4C2D9917.Up2Date
