@@ -158,7 +158,7 @@ namespace Convetidor_plantillas_excel
                         barChart.Title.Text = "Comparativa de Diferencia de Ventas (2023 vs 2025)";
 
                         // Guardar el archivo Excel con el gráfico
-                        var outputFile = new FileInfo(@"D:\Project C#\archivos Excel\Dashboar.xlsx");
+                        var outputFile = new FileInfo(@"C:\Project C#\archivos Excel\Dashboar.xlsx");
                         newPackage.SaveAs(outputFile);
                     }
                 }
